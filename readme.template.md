@@ -186,6 +186,7 @@ Leading to the following techniques:
  - [Razzle](https://github.com/jaredpalmer/razzle#readme) - Handles the building. You do the rest.
  - [React Universal Component](https://github.com/faceyspacey/react-universal-component#readme) - Utility to code split your SSR app.
  - [Rogue.js](https://github.com/alidcastano/rogue.js#readme) - SSR utilities focused on flexibility. First-class support for React Router, Apollo GraphQL, Redux, Emotion, and Styled-Components. The build step is up to you (but you can use Razzle.)
+ - [use-ssr](https://github.com/alex-cory/use-ssr) - ☯️ React hook to determine if you are on the server or browser
 
 ##### Boilerplates
 
